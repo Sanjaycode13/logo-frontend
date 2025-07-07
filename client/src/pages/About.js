@@ -19,8 +19,9 @@ const About = () => (
     </ul>
 
     <h2>Meet the Founders</h2>
-    <p><strong>KVS Aditya</strong> – Frontend enthusiast who brings clean UI and design sense to life.</p>
-    <p><strong>Sanjay K S</strong> – Full stack developer with a passion for visual communication and web architecture.</p>
+    <p><strong>KVS Aditya</strong> – Brings creative ideas and design thinking to shape the user experience and layout of the platform.</p>
+    <p><strong>Sanjay K S</strong> – Handles overall project planning, coordination, and brings structure and clarity to both visual and functional aspects.</p>
+
 
     <h2>What Makes Us Different?</h2>
     <ul>
